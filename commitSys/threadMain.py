@@ -2,7 +2,7 @@ from GITthread import main
 import time
 
 second = 0
-minute = 5
+minute = 50
 hour = 0
 t_lenght = 60 * minute + 3600 * hour + second
 print(t_lenght)
